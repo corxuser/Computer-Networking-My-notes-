@@ -6,7 +6,8 @@ There are multiple ways to answer the question "What is the Internet?" One appro
 
 The Internet is a global computer network connecting billions of computing devices worldwide.
 
-![Figure 1.1: A nuts-and-bolts description of the Internet](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)
+<img width="640" height="913" alt="image" src="https://github.com/user-attachments/assets/4ceee03a-8c27-43fd-8d84-ec6c3476debb" />
+
 *Figure 1.1: A nuts-and-bolts description of the Internet.*
 
 In Internet terminology, all of these connected devices are referred to as **hosts** or **end systems**. End systems are interconnected by a network of **communication links** and **packet switches**.
@@ -58,7 +59,8 @@ To understand the concept of a computer network protocol, it is often easiest to
 
 In a human protocol, we send specific messages and take specific actions based on the responses we receive or other events (such as the absence of a response within a certain timeframe).
 
-![Figure 1.2: A human protocol and a computer network protocol](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)
+![Uploading image.png…]()
+
 *Figure 1.2: A human protocol and a computer network protocol.*
 
 ### Network Protocols
