@@ -47,7 +47,8 @@ To understand the concept of a computer network protocol, it is often easiest to
 
 In a human protocol, we send specific messages and take specific actions based on the responses we receive or other events (such as the absence of a response within a certain timeframe).
 
-![Figure 1.2: A human protocol and a computer network protocol](computer%20networking%20part%201.pdf_page_4_image_1.png)
+<img width="617" height="465" alt="image" src="https://github.com/user-attachments/assets/299958ed-a90d-4118-91d4-c2c788baf99d" />
+
 *Figure 1.2: A human protocol and a computer network protocol.*
 
 ### Network Protocols
