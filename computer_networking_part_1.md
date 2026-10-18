@@ -59,7 +59,8 @@ To understand the concept of a computer network protocol, it is often easiest to
 
 In a human protocol, we send specific messages and take specific actions based on the responses we receive or other events (such as the absence of a response within a certain timeframe).
 
-![Uploading image.png…]()
+<img width="617" height="465" alt="image" src="https://github.com/user-attachments/assets/1d100e1e-6df5-454d-8d0e-12ed53f31d2f" />
+
 
 
 
