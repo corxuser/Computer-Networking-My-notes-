@@ -62,6 +62,7 @@ In a human protocol, we send specific messages and take specific actions based o
 ![Uploading image.png…]()
 
 
+
 *Figure 1.2: A human protocol and a computer network protocol.*
 
 ### Network Protocols
