@@ -6,7 +6,8 @@ There are multiple ways to answer the question "What is the Internet?" One appro
 
 The Internet is a global computer network connecting billions of computing devices worldwide.
 
-![Figure 1.1: A nuts-and-bolts description of the Internet](computer%20networking%20part%201.pdf_page_2_image_1.png)
+
+
 *Figure 1.1: A nuts-and-bolts description of the Internet.*
 
 In Internet terminology, all of these connected devices are referred to as **hosts** or **end systems**. End systems are interconnected by a network of **communication links** and **packet switches**. 
